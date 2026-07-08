@@ -266,54 +266,90 @@ export const BOT_PRESETS: BotPreset[] = [
     name: "Boogey Man",
     elo: 241,
     avatar: "/bots/image-3.png",
-    blurb: "Beginner : hangs pieces, plays for fun.",
+    blurb: "Beginner: Hangs their Queen on move 4, but plays with maximum chaos.",
   },
   {
     id: "Kiran Chaitu",
     name: "Kiran Chaitu",
     elo: 773,
     avatar: "/bots/image-2.png",
-    blurb: "Beginner:Plays for fun.",
+    blurb: "Casual: Plays purely for fun. Opening theory is completely non-existent.",
   },
   {
     id: "Abhi",
     name: "Abhi",
     elo: 931,
     avatar: "/bots/image-5.png",
-    blurb: "Casual : knows the basics, misses tactics.",
+    blurb: "Intermediate: Understands basic development but consistently misses tactical forks.",
   },
   {
     id: "Ayaz",
     name: "Ayaz",
     elo: 1312,
     avatar: "/bots/image-4.png",
-    blurb: "Club player : solid strategy, occasional blunder.",
+    blurb: "Club Player: Deploys solid strategy, right up until a sudden tactical blindness strikes.",
   },
   {
     id: "Jinna",
     name: "Jinna",
     elo: 1354,
     avatar: "/bots/image-6.png",
-    blurb: "Club Expert : sharp tactics and endgame skill.",
+    blurb: "Club Expert: Thrives in razor-sharp tactical lines and grinding out complex endgames.",
   },
   {
     id: "Akhil",
     name: "Akhil",
     elo: 1521,
     avatar: "/bots/image-7.png",
-    blurb: "Club Master : Great Middle game Tactics.",
+    blurb: "Middlegame Maestro: Navigates wild piece complications smoothly. Keep your king safe.",
   },
   {
     id: "Nani",
     name: "Nani",
     elo: 1600,
     avatar: "/bots/image-8.png",
-    blurb: "Club Master : Perfect Player With Brillency.",
+    blurb: "Tactical Genius: Constantly hunts for brilliant sacrifices. Thinks they are Mikhail Tal.",
   },
-  { id: "Titan", name: "TItan", elo: 1900, emoji: "🛡️", blurb: " :Master :Solid Strategy with Brillency." },
-  { id: "Nova", name: "Nova", elo: 2200, emoji: "🌌", blurb: "CM: Punish Almost every Inaccuracy." },
-  { id: "Atlas", name: "Atlaa", elo: 2400, emoji: "🌌", blurb: "FM : as strong as it gets." },
-  { id: "Pragg", name: "Pragg", elo: 2780, emoji: "🌌", blurb: "IM : Even World no 1 is not enough" },
-  { id: "Gukesh", name: "Gukesh", elo: 2900, emoji: "🌌", blurb: "World No 1" },
-  { id: "Abyass", name: "Abyss", elo: 3190, emoji: "🌌", blurb: "Full Stockfish : as strong as it gets." },
+  { 
+    id: "Titan", 
+    name: "TItan", 
+    elo: 1900, 
+    emoji: "🛡️", 
+    blurb: "Expert: Immovable positional defense backed by sudden, lethal breakthroughs." 
+  },
+  { 
+    id: "Nova", 
+    name: "Nova", 
+    elo: 2200, 
+    emoji: "🌌", 
+    blurb: "Candidate Master: A punishing machine. One tiny positional slip and the game is over." 
+  },
+  { 
+    id: "Atlas", 
+    name: "Atlaa", 
+    elo: 2400, 
+    emoji: "🌌", 
+    blurb: "FIDE Master: Suffocating strategic pressure. Holds the weight of the entire board." 
+  },
+  { 
+    id: "Pragg", 
+    name: "Pragg", 
+    elo: 2780, 
+    emoji: "🌌", 
+    blurb: "Super GM: Unbelievable defensive resilience. Even elite grandmasters fail to break through." 
+  },
+  { 
+    id: "Gukesh", 
+    name: "Gukesh", 
+    elo: 2900, 
+    emoji: "🌌", 
+    blurb: "World Champion Class: Flawless, cold, and calculated execution from move one." 
+  },
+  { 
+    id: "Abyass", 
+    name: "Abyss", 
+    elo: 3190, 
+    emoji: "🌌", 
+    blurb: "Maximum Stockfish: Pure silicon despair. Does not show human mercy." 
+  },
 ];
