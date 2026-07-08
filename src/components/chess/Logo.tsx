@@ -1,4 +1,4 @@
-import knightMark from "@/assets/knight-mark.png.asset.json";
+import knightMark from "@/assets/knight-mark.png";
 
 /**
  * ChessLens brand mark — user-provided chess knight silhouette.
