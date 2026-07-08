@@ -3,6 +3,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/sriramsai18/ChessLens)](https://github.com/sriramsai18/ChessLens/issues)
+<div align="center">
+  <a href="https://chesslenz.vercel.app">
+    <img src="https://img.shields.io/badge/DEPLOYED_ON-VERCEL-black?style=for-the-badge&logo=vercel" alt="Launch App" height="50">
+  </a>
+</div>
 
 Welcome to **ChessLens**, the ultimate post-game analysis tool for the true chess-o-holic. Whether you're hanging queens in time trouble, grinding the endgame like Magnus, or trying to figure out why your "brilliant sacrifice" was actually a +M3 blunder, ChessLens has you covered. 
 
