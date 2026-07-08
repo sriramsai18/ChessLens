@@ -1,4 +1,4 @@
-# ♚ ChessLens ♛
+# ♚ ChessLens ♚
 **Your Silicon Grandmaster for dissecting games from Chess.com & Lichess.org.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@ Built with the blazing speed of **TanStack Start + Vite**, this modern TypeScrip
 
 ---
 
-## 🌟 The Repertoire (Features)
+## ♛ The Repertoire (Features)
 
 *   **The Opening Setup:** Seamlessly fetch games from both **Chess.com** and **Lichess.org** using just a username. No manual PGN copying required!
 *   **Tactical Vision:** Deep web-based analysis to evaluate your moves. We'll highlight your *Brilliant (!)* moves, forgive your *Inaccuracies (?)*, and ruthlessly point out your *Blunders (??)*.
@@ -55,6 +55,6 @@ If ChessLens helped you spot a hanging piece, refine your opening repertoire, or
 Think you can find a tactic against the dev? I'm always down for a game! 
 
 Find me on the board:
-* **Chess.com:** ♞[knight_018](https://www.chess.com/member/knightt_018) 
+* **Chess.com:** ♞ [Knightt_018](https://www.chess.com/member/knightt_018) 
 
 *(If you beat me, please don't run the PGN through ChessLens just to flex on my blunders...)*
