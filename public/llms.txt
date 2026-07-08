@@ -1,0 +1,9 @@
+# ChessLens
+
+> Real-time chess analyzer powered by Stockfish 18 — multi-line evaluation, opening book, full-game review with blunder classification, and PGN/FEN import & export.
+
+ChessLens runs Stockfish directly in the browser to give players instant position evaluation, multi-PV engine lines, opening detection, and a chess.com-style game review with accuracy scores and blunder detection. It also supports playing against bots of varying strength.
+
+## Pages
+
+- [Home](/): Analyze positions and games with Stockfish, review your play, and practice against bots.
