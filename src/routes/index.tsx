@@ -7,7 +7,7 @@ import { useMounted } from "@/lib/use-mounted";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "ChessLens — Real-time Chess Analyzer with Stockfish" },
+      { title: "ChessLens" },
       {
         name: "description",
         content:
