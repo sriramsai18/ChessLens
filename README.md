@@ -60,6 +60,6 @@ If ChessLens helped you spot a hanging piece, refine your opening repertoire, or
 Think you can find a tactic against the dev? I'm always down for a game! 
 
 Find me on the board:
-* **Chess.com:** ♞ [Knightt_018](https://www.chess.com/member/knightt_018) 
+* **Chess.com:** ♞ [Knightt_018]([https://www.chess.com/member/nanii_018]) 
 
 *(If you beat me, please don't run the PGN through ChessLens just to flex on my blunders...)*
